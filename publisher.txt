@@ -1,1 +1,8 @@
-Realice 
+Buenas tardes alumnos de octavo. 
+Terminen la tarjeta de presentacion que estan realizando en publisher.
+Detalles:
+1 - Logo
+2 - Nombre Comercial
+3 - Direccion
+4 - Telefono
+5 - Profesion
