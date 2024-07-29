@@ -6,3 +6,5 @@ Detalles:
 3 - Direccion
 4 - Telefono
 5 - Profesion
+
+Nota: les dejo un ejemplo en el archivo adjunto.
